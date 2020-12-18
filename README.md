@@ -49,10 +49,7 @@
 
 <br />
 <br />
-<!-- <img width="550px" alt="Nuruddin Kawsar Github Stats"  src="https://github-readme-stats.vercel.app/api?username=kawser00&show_icons=true"/>
 
-<!-- [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=kawser00&card_width=550)](https://github.com/kawser00/kawser00) --> -->
-
-[website]: https://kawser.netlify.app/
-[medium]: https://medium.com/@kawser00
-[linkedin]: https://www.linkedin.com/in/kawser00/
+[website]:
+[medium]:
+[linkedin]: https://www.linkedin.com/in/nuruddin-kawsar-5686b2158/
