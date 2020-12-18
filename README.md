@@ -49,9 +49,9 @@
 
 <br />
 <br />
-<img width="550px" alt="Kawsar Mahmud Github Stats"  src="https://github-readme-stats.vercel.app/api?username=kawser00&show_icons=true"/>
+<!-- <img width="550px" alt="Nuruddin Kawsar Github Stats"  src="https://github-readme-stats.vercel.app/api?username=kawser00&show_icons=true"/>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=kawser00&card_width=550)](https://github.com/kawser00/kawser00)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=kawser00&card_width=550)](https://github.com/kawser00/kawser00) -->
 
 [website]: https://kawser.netlify.app/
 [medium]: https://medium.com/@kawser00
