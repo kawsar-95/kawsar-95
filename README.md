@@ -2,7 +2,7 @@
 
 #### - MERN Stack Developer
 
-## I'm a 😍😍 JavaScript Lover 😍😍!
+### I'm a 😍😍 JavaScript Lover 😍😍!
 
 - ⚡ Learning Web Tech 😎😎
 - 💻 Always curious about new technology 🤩🤩
@@ -42,10 +42,10 @@
 2. [Creative Agency](https://creative-agency-5d0a0.web.app/)
 3. [Travel Guru](https://travel-guru-site.netlify.app/)
 4. [Ema John Simple](https://ema-john-simple-projects-8e354.web.app/)
-5. [E-School Learning](https://kawser00.github.io/e-school-resources/)
-6. [Online Learning Platform](https://online-learning-platform.netlify.app/)
-7. [Weather Forecast](https://kawser00.github.io/weather-app/)
-8. [Pin Matcher](https://kawser00.github.io/pin-matcher/)
+5. [E-School Learning](https://kawsar-95.github.io/E-School/)
+6. [Online Learning Platform](https://dazzling-nightingale-f31923.netlify.app/)
+7. [Weather Forecast](https://kawsar-95.github.io/weather-app/)
+8. [Pin Matcher](https://kawsar-95.github.io/Pin-Matcher/)
 
 <br />
 <br />
