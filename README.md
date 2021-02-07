@@ -1,7 +1,5 @@
 ### Hi there, I'm [NurUddin Kawsar][website] 👋
 
-#### - MERN Stack Developer
-
 ### I'm a JavaScript enthusiast
 
 - ⚡ Learning Web Tech 
