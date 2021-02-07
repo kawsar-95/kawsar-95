@@ -6,7 +6,7 @@
 
 - ⚡ Learning Web Tech
 - 💻 Always curious about new technology
-- 🥅 2020 Goals: Learn React, React Native, Vue, Node
+- 🥅 2021 Goals: Learn React, React Native, Vue, Node
 
 ### Connect with me:
 
