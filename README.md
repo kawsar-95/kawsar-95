@@ -50,6 +50,6 @@
 <br />
 <br />
 
-[website]:
+[website]:https://nuruddin-kawsar.netlify.app/
 [medium]:https://kawsar95.medium.com/
 [linkedin]: https://www.linkedin.com/in/nuruddin-kawsar-5686b2158/
