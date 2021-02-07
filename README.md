@@ -1,5 +1,7 @@
 ### Hi there, I'm [NurUddin Kawsar][website] 👋
 
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kawsar-95&label=Views&color=blue&style=plastic" alt="kawsar-95" /> </p> -->
+
 ### I'm a JavaScript enthusiast
 
 - ⚡ Learning Web Tech
