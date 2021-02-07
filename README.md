@@ -2,7 +2,7 @@
 
 ### I'm a JavaScript enthusiast
 
-- ⚡ Learning Web Tech 
+- ⚡ Learning Web Tech
 - 💻 Always curious about new technology
 - 🥅 2020 Goals: Learn React, React Native, Vue, Node
 
@@ -31,8 +31,20 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+<a href="https://github.com/kawsar-95">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawsar-95&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/kawsar-95">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=kawsar-95&show_icons=true&theme=light&line_height=27" alt="kawsar's github stats"/>
+</a>
+<!-- <a href="https://github.com/kawsar-95/FlutterExampleApps">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kawsar-95&repo=FlutterExampleApps&theme=light" />
 
-<br />
+</a> -->
+
+<!-- <a href="https://github.com/kawsar-95/VelocityX">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kawsar-95&repo=VelocityX&theme=light" />
+</a> -->
 
 ### Some projects I worked on:
 
@@ -46,8 +58,7 @@
 8. [Pin Matcher](https://kawsar-95.github.io/Pin-Matcher/)
 
 <br />
-<br />
 
-[website]:https://nuruddin-kawsar.netlify.app/
-[medium]:https://kawsar95.medium.com/
+[website]: https://nuruddin-kawsar.netlify.app/
+[medium]: https://kawsar95.medium.com/
 [linkedin]: https://www.linkedin.com/in/nuruddin-kawsar-5686b2158/
