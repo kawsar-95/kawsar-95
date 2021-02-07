@@ -2,10 +2,10 @@
 
 #### - MERN Stack Developer
 
-### I'm a 😍😍 JavaScript Lover 😍😍!
+### I'm a JavaScript enthusiast
 
-- ⚡ Learning Web Tech 😎😎
-- 💻 Always curious about new technology 🤩🤩
+- ⚡ Learning Web Tech 
+- 💻 Always curious about new technology
 - 🥅 2020 Goals: Learn React, React Native, Vue, Node
 
 ### Connect with me:
