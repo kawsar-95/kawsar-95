@@ -2,7 +2,7 @@
 
 ### I'm a JavaScript enthusiast
 
-- ⚡ Learning MERN Stack
+- ⚡ Learning angular,Spring Boot.
 - 👯 I’m looking to collaborate with other passionate developers.
 - 🥅 2021 Goals: Master at MERN Stack, Learn GraphQL & Next.js and contribute to Open Source projects.
 - ⚡ Fun fact: I love watching Netflix in my free time & travel to new places.
