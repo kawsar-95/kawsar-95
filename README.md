@@ -3,7 +3,7 @@
 ### I'm a JavaScript enthusiast
 
 - ⚡ Learning angular.
-- 👯 I’m looking to collaborate with other passionate developers.
+- 👯 I’m looking forward to contribute to Open Source Projects.
 - 🥅 2021 Goals: Master at MERN, Stack, Learn GraphQL & Next.js and contribute to Open Source projects.
 - ⚡ Fun fact: I love watching Netflix in my free time & travel to new places.
 
@@ -57,11 +57,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawsar-95&theme=light&hide_langs_below=1" />
 </a>
 
-#### GitHub Stats!
+<!-- #### GitHub Stats!
 <a href="https://github.com/kawsar-95">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kawsar-95&show_icons=true&theme=light&line_height=27" alt="kawsar's github stats"/>
 </a>
-
+ -->
 ### Some projects I worked on:
 
 1. [Volunteer Network](https://volunteer-network-app.netlify.app/)
