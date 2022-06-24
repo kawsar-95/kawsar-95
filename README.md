@@ -62,7 +62,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kawsar-95&show_icons=true&theme=light&line_height=27" alt="kawsar's github stats"/>
 </a>
  -->
-### Some projects I worked on:
+<!-- ### Some projects I worked on:
 
 1. [Volunteer Network](https://volunteer-network-app.netlify.app/)
 2. [Creative Agency](https://creative-agency-5d0a0.web.app/)
@@ -71,7 +71,7 @@
 5. [E-School Learning](https://kawsar-95.github.io/E-School/)
 6. [Online Learning Platform](https://dazzling-nightingale-f31923.netlify.app/)
 7. [Weather Forecast](https://kawsar-95.github.io/weather-app/)
-8. [Pin Matcher](https://kawsar-95.github.io/Pin-Matcher/)
+8. [Pin Matcher](https://kawsar-95.github.io/Pin-Matcher/) -->
 
 <br />
 
