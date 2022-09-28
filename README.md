@@ -14,7 +14,7 @@
 [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://kawsar95.medium.com/)
 [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/8455003/kawsar95)
 
-<br />
+<!-- <br /> -->
 
 <!-- ### Languages and Tools:
 
@@ -48,7 +48,7 @@
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> -->
 
-<br />
+<!-- <br /> -->
 
 <br />
 
