@@ -2,10 +2,10 @@
 
 ### I'm a JavaScript enthusiast
 
-- ⚡ Learning MERN.
+<!-- - ⚡ Learning MERN.
 - 👯 I’m looking forward to contribute to Open Source Projects.
 - 🥅 2022 Goals: Master at MERN, Stack, Learn GraphQL & Next.js and contribute to Open Source projects.
-- ⚡ Fun fact: I love watching Netflix in my free time & travel to new places.
+- ⚡ Fun fact: I love watching Netflix in my free time & travel to new places. -->
 
 ### Connect with me:
 
