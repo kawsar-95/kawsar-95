@@ -132,7 +132,9 @@ Here are some ideas to get you started:
   - **🗜 Principles:** • [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself#:~:text=%22Don%27t%20repeat%20yourself%22,data%20normalization%20to%20avoid%20redundancy.) • [ACID](https://en.wikipedia.org/wiki/ACID) • [DDD](https://en.wikipedia.org/wiki/Domain-driven_design) • [SOLID](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
   - **🕹 Frameworks:** • [.NET 6](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) • [.NET Core 3.1](https://dotnet.microsoft.com/en-us/download/dotnet/3.1) • [.NET Standard 2.0](https://docs.microsoft.com/en-us/dotnet/standard/net-standard?tabs=net-standard-1-0) • [.NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48) • [Entity Framework](https://docs.microsoft.com/en-us/ef/) -->
 - **🏗️ Code editors:**
-  <a href="https://visualstudio.microsoft.com/"><img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" height=25></a> <a href="https://code.visualstudio.com/"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height=25></a><a href="https://notepad-plus-plus.org/"><img src="https://notepad-plus-plus.org/images/logo.svg" height=25></a>
+  <!-- <a href="https://visualstudio.microsoft.com/"><img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" height=25></a>  -->
+  <a href="https://code.visualstudio.com/"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height=25></a>
+  <!-- <a href="https://notepad-plus-plus.org/"><img src="https://notepad-plus-plus.org/images/logo.svg" height=25></a> -->
 
 #### What's interesting about me?
 
@@ -149,20 +151,20 @@ Here are some ideas to get you started:
 </p>
 
 <!-- #### What companies have I worked for? -->
-<p left="center">
+<!-- <p left="center">
   <a href="https://selisegroup.com/">
     <img src="https://selisegroup.com/wp-content/uploads/2020/11/SELISE-DIgital-Platforms-.png" height=50>
-    </a> 
+    </a>
   <a href="https://3ssoftltd.com">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0b-D5T2Flf7EDcsRtGCwK33TY8nWxldo-PoG3NGmzlGY60ZWjdNlTH42luTcRBKwg5xw&usqp=CAU" height=50>
   </a>
   <a href="https://futurestartup.com/2015/05/20/this-startup-aims-to-solve-dhakas-traffic-problem-with-an-app-but-there-is-more-to-it/">
-    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple49/v4/13/7e/6d/137e6dca-2956-bfec-a0bd-57d37ab63af0/source/512x512bb.jpg" height=50> 
+    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple49/v4/13/7e/6d/137e6dca-2956-bfec-a0bd-57d37ab63af0/source/512x512bb.jpg" height=50>
   </a>
   <a href="https://www.celimited.com/">
     <img src="https://celimited.com/wp-content/uploads/2022/11/logo.png" height=50 width=250>
   </a>
-</p>
+</p> -->
 
 <!-- #### What are my recent highlights? -->
 
