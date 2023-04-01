@@ -133,9 +133,9 @@ Here are some ideas to get you started:
   - **🕹 Frameworks:** • [.NET 6](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) • [.NET Core 3.1](https://dotnet.microsoft.com/en-us/download/dotnet/3.1) • [.NET Standard 2.0](https://docs.microsoft.com/en-us/dotnet/standard/net-standard?tabs=net-standard-1-0) • [.NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48) • [Entity Framework](https://docs.microsoft.com/en-us/ef/) -->
 - **🏗️ Code editors:**
   <!-- <a href="https://visualstudio.microsoft.com/"><img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" height=25></a>  -->
-<!--   <a href="https://code.visualstudio.com/"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height=25></a> -->
+  <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" height=25></a>
   <!-- <a href="https://notepad-plus-plus.org/"><img src="https://notepad-plus-plus.org/images/logo.svg" height=25></a> -->
- <a href="https://code.visualstudio.com/"><img height=25 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
+
 
 #### What's interesting about me?
 
