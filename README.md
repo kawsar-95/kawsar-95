@@ -92,7 +92,7 @@ Here are some ideas to get you started:
 - A frontend developer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).**
 <!-- - Have 2 years of hands-on experience in **technology consulting, team engagement, product development.**
 - Developed products for **healthcare, financial service, F&B, retail,** and **logistics** business domains. -->
-- Have built **native, hybrid,** and **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **monolithic** and **microservices** architectures.
+- Have built  hybrid,** and **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **monolithic** and **microservices** architectures.
 
 #### What I'm doing?
 
