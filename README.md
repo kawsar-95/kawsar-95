@@ -19,26 +19,14 @@
 
 - 📄 Know about my experiences [Resume](https://github.com/kawsar-95/Nuruddin-Kawsar-Resume.pdf)
 
-## 💼 Professional Experience
-
-### Absorb LMS - Learning Management System
-**Role**: Automation QA Engineer  
-**Tech**: Cypress, Playwright, Postman, Jenkins, Selenium  
-- Created and optimized automation scripts for seamless user experience, managed workflows, and improved CI/CD integration.
-
-### ConnexPay - FinTech Payment Platform
-**Role**: Manual & Automation QA Engineer  
-**Tech**: Selenium, Postman, TestNG, Jenkins  
-- Automated testing for critical payment flows, focusing on reliability, transaction validation, and compliance.
-
 ## 🔧 Skills & Technologies
 
-- **Automation Tools**: Cypress, Selenium WebDriver, Playwright
-- **API Testing**: Postman, Swagger
+- **Automation Tools**: Cypress, Selenium WebDriver, Playwright, Appium
+- **API Testing**: Postman, Swagger, rest-assured
 - **CI/CD**: Jenkins, GitLab, GitHub Actions
-- **Programming**: JavaScript, Java, PHP
-- **Frameworks**: TestNG, Mocha, JUnit
-- **Version Control**: Git, GitHub, GitLab
+- **Programming**: JavaScript, Java
+- **Frameworks**: TestNG, Mocha, JUnit, Chai, Cucumber(Gherkin)
+- **Version Control**: Git, GitHub, GitLab, Bitbucket
 - **Other Tools**: JIRA, Docker, WordPress
 
 ## 🌍 Connect with Me
@@ -50,19 +38,4 @@
     <a href="https://dev.to/your_devto_profile" target="_blank"><img src="https://img.icons8.com/external-sketchy-juicy-fish/40/000000/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
 </p>
 
----
-
-### Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Test Automation in the CI/CD Pipeline: Best Practices](https://dev.to/yourprofile)
-- [Mastering Playwright for Web Testing](https://dev.to/yourprofile)
-- [API Testing with Postman for Beginners](https://dev.to/yourprofile)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-Credit: [Nuruddin Kawsar](https://github.com/kawsar-95)
-
-_Last Edited on: 01/11/2024_
 
