@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/kawsar-95" target="blank">Nuruddin Kawsar</a></h1>
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/5e2ff6c8-e841-40f9-a377-ad6a94069231" /><h1 align="center">Hi 👋, I'm <a href="https://github.com/kawsar-95" target="blank">Nuruddin Kawsar</a></h1>
 <h3 align="center">A passionate QA Engineer & Automation Enthusiast from Bangladesh 🇧🇩</h3>
 
 
@@ -31,10 +31,13 @@
 ## 🌍 Connect with Me
 
 <p align="center">
-    <a href="(https://www.linkedin.com/in/nuruddin-kawsar-3b5152279/)" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-    <a href="https://github.com/kawsar-95" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-    <!-- <a href="https://stackoverflow.com/users/your_stackoverflow_id" target="_blank"><img src="https://img.icons8.com/color/40/000000/stackoverflow.png"></a>
-    <a href="https://dev.to/your_devto_profile" target="_blank"><img src="https://img.icons8.com/external-sketchy-juicy-fish/40/000000/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a> -->
+    <a href="https://www.linkedin.com/in/nuruddin-kawsar-3b5152279/" target="_blank" title="LinkedIn">
+      <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/kawsar-95" target="_blank" title="GitHub">
+      <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub" />
+    </a>
+ 
 </p>
 
 
