@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/5e2ff6c8-e841-40f9-a377-ad6a94069231" /><h1 align="center">Hi 👋, I'm <a href="https://github.com/kawsar-95" target="blank">Nuruddin Kawsar</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/kawsar-95" target="blank">Nuruddin Kawsar</a></h1>
 <h3 align="center">A passionate QA Engineer & Automation Enthusiast from Bangladesh 🇧🇩</h3>
 
 
