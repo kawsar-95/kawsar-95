@@ -2,7 +2,9 @@
 <h3 align="center">A passionate QA Engineer & Automation Enthusiast from Bangladesh 🇧🇩</h3>
 
 
-<p align="left"> <a href="https://x.com/nur_kawsar95" target="blank"><img src="https://img.shields.io/twitter/follow/nur_kawsar95?logo=twitter&style=for-the-badge" alt="twitter_handle" /></a> </p>
+<p align="left"> <a href="https://x.com/nur_kawsar95" target="blank"><img alt="image" src="https://github.com/user-attachments/assets/5e2ff6c8-e841-40f9-a377-ad6a94069231" />
+<!--   <img src="https://img.shields.io/twitter/follow/nur_kawsar95?logo=twitter&style=for-the-badge" alt="twitter_handle" />
+</a> </p> -->
 
 <a target="_blank" align="center">
   <img align="right" height="300" width="400" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
