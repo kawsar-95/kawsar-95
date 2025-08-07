@@ -31,7 +31,7 @@
 ## 🌍 Connect with Me
 
 <p align="center">
-    <a href="[https://www.linkedin.com/in/nuruddin-kawsar/](https://www.linkedin.com/in/nuruddin-kawsar-3b5152279/)" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+    <a href="(https://www.linkedin.com/in/nuruddin-kawsar-3b5152279/)" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
     <a href="https://github.com/kawsar-95" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
     <!-- <a href="https://stackoverflow.com/users/your_stackoverflow_id" target="_blank"><img src="https://img.icons8.com/color/40/000000/stackoverflow.png"></a>
     <a href="https://dev.to/your_devto_profile" target="_blank"><img src="https://img.icons8.com/external-sketchy-juicy-fish/40/000000/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a> -->
