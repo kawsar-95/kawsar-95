@@ -9,7 +9,7 @@
   <img align="right" height="300" width="400" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </a>
 
-- 🔭 I’m currently working at [Together Initiatives (P) Ltd](https://togetherinitiatives.com)
+- 🔭 I’m currently working at [Nifty It Solution](https://niftyitsolution.com/)
 
 - 🌱 Exploring the latest in **Cypress, Playwright, and Selenium** to elevate automation testing 
 
