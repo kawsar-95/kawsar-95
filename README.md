@@ -21,7 +21,7 @@ Experienced SQA Engineer with 4+ years in manual and automated testing, skilled 
 - 🌱 Exploring the latest in **Cypress, Playwright, and Selenium** to elevate automation testing.  
 - 💬 Ask me about **Automation Testing, Selenium, Cypress, and Playwright**.  
 - 📫 Reach me at **nuruddinkawsar1995@gmail.com**.  
-- 📄 Know about my experiences: **[Resume](https://drive.google.com/file/d/1RkirIrHSZoZR_XfJuW5fTFXKTQ7wGy7a/view?usp=drive_link)**.  
+- 📄 Know about my experiences: **[Resume](https://drive.google.com/file/d/17tm9aSTy3-uyfyYb3EiQGqxkDhygoqhV/view?usp=drivesdk )**.  
 
 ---
 
