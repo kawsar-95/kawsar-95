@@ -20,15 +20,15 @@ SQA Engineer with 4+ years of experience delivering quality across Functional, R
   <img align="right" height="300" width="400" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </a>
 
-- 🔭 I'm currently working at **[Nifty IT Solution](https://niftyitsolution.com/)**  
+- I'm currently working at **[Nifty IT Solution](https://niftyitsolution.com/)**  
 - Designing end-to-end automation frameworks with **Cypress, Playwright, and Selenium** to maximize test coverage across critical user flows.  
 - Validating REST APIs and conducting load testing with **Postman, K6, and JMeter** to ensure performance under real-world conditions.  
 - Integrating test pipelines into **GitHub Actions and Jenkins** for continuous feedback on every build.  
 - Managing test cases and defect tracking in **JIRA and TestRail** across Scrum sprints.  
-- 🌱 Exploring **AI-assisted testing tools** (LLM-based test generation, GitHub Copilot for QA) to improve coverage and speed.  
-- 💬 Ask me about **Test Automation, API & Performance Testing, CI/CD Integration, and Agile QA practices**.  
-- 📫 Reach me at **nuruddinkawsar1995@gmail.com**.  
-- 📄 Know about my experiences: **[Resume](https://drive.google.com/file/d/16vgnB31UX30QtXW_Ceq6arTXSrgrZG3U/view?usp=sharing)**.  
+- Exploring **AI-assisted testing tools** (LLM-based test generation, GitHub Copilot for QA) to improve coverage and speed.  
+- Ask me about **Test Automation, API & Performance Testing, CI/CD Integration, and Agile QA practices**.  
+- Reach me at **nuruddinkawsar1995@gmail.com**.  
+- Know about my experiences: **[Resume](https://drive.google.com/file/d/16vgnB31UX30QtXW_Ceq6arTXSrgrZG3U/view?usp=sharing)**.  
 
 ---
 
