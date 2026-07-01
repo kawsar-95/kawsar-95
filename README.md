@@ -25,7 +25,7 @@ SQA Engineer with 4+ years of experience delivering quality across Functional, R
 - Validating REST APIs and conducting load testing with **Postman, K6, and JMeter** to ensure performance under real-world conditions.  
 - Integrating test pipelines into **GitHub Actions and Jenkins** for continuous feedback on every build.  
 - Managing test cases and defect tracking in **JIRA and TestRail** across Scrum sprints.  
-- Exploring **AI-assisted testing tools** (LLM-based test generation, GitHub Copilot for QA) to improve coverage and speed.  
+- Exploring **AI-assisted testing tools** (LLM-based test generation, GitHub Copilot, claude) to improve coverage and speed.  
 - Ask me about **Test Automation, API & Performance Testing, CI/CD Integration, and Agile QA practices**.  
 - Reach me at **nuruddinkawsar1995@gmail.com**.  
 - Know about my experiences: **[Resume](https://drive.google.com/file/d/16vgnB31UX30QtXW_Ceq6arTXSrgrZG3U/view?usp=sharing)**.  
@@ -62,16 +62,6 @@ SQA Engineer with 4+ years of experience delivering quality across Functional, R
 - **Version Control**: Git (GitHub / Bitbucket).  
 - **Methodologies**: Scrum, Kanban.  
 - **Emerging**: AI-assisted testing tools & LLM-based test generation (actively learning).  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kawsar-95&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kawsar-95&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawsar-95&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%" />
-</p>
 
 ---
 
