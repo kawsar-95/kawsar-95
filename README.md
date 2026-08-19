@@ -14,13 +14,13 @@
 ---
 
 ### 🚀 About Me  
-SQA Engineer with 4+ years of experience delivering quality across Functional, Regression, Performance, API, Security, Smoke, and UAT testing. I build and maintain automation frameworks with **Cypress, Selenium, and Playwright** (JavaScript/Java), integrate them into **GitHub Actions and Jenkins** CI/CD pipelines, and validate system performance under load with **K6 and JMeter**. Currently exploring AI-assisted testing tools to stay ahead of 2026 QA trends. I thrive in Agile (Scrum/Kanban) teams, collaborating closely with developers and product managers to ship reliable software fast.  
+SQA Engineer with 5+ years of experience delivering quality across Functional, Regression, Performance, API, Security, Smoke, and UAT testing. I build and maintain automation frameworks with **Cypress, Selenium, and Playwright** (JavaScript/Java), integrate them into **GitHub Actions and Jenkins** CI/CD pipelines, and validate system performance under load with **K6 and JMeter**. Currently exploring AI-assisted testing tools to stay ahead of 2026 QA trends. I thrive in Agile (Scrum/Kanban) teams, collaborating closely with developers and product managers to ship reliable software fast.  
 
 <a target="_blank" align="center">
   <img align="right" height="300" width="400" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </a>
 
-- I'm currently working at **[Nifty IT Solution](https://niftyitsolution.com/)**  
+- I'm currently working at **[Shomvob Technologies Ltd. ](https://shomvob.com/)**  
 - Designing end-to-end automation frameworks with **Cypress, Playwright, and Selenium** to maximize test coverage across critical user flows.  
 - Validating REST APIs and conducting load testing with **Postman, K6, and JMeter** to ensure performance under real-world conditions.  
 - Integrating test pipelines into **GitHub Actions and Jenkins** for continuous feedback on every build.  
