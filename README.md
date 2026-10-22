@@ -35,28 +35,6 @@ Software QA Engineer with 5+ years of experience in manual and automated testing
 
 ---
 
-## 💼 Experience  
-
-| Role | Company | Period |
-|------|---------|--------|
-| QA Automation Engineer | Shomvob Technologies Ltd., Dhaka | Jul 2026 – Present |
-| Software QA Engineer | Nifty IT Solution, Dhaka | Aug 2025 – Jun 2026 |
-| Software QA Engineer | NextLevel Media Bangladesh (Remote, US HQ) | Mar 2025 – Jul 2025 |
-| Associate SDET | Together Initiatives (P) Limited, Dhaka | Apr 2022 – Feb 2025 |
-| Junior SQA Intern | Together Initiatives (P) Limited, Dhaka | Aug 2021 – Mar 2022 |
-
----
-
-## 🧪 Featured Projects  
-
-- **Shomvob HRIS** — UI and API automation for onboarding, payroll, and multi-tier promotion approvals; RBAC test matrices protecting salary data; Playwright smoke/regression pipelines gating builds.  
-- **Absorb LMS** — Automated UI & API workflows (course creation, user management, assignments) integrated into CI/CD.  
-- **ConnexPay (FinTech)** — Selenium WebDriver automation for payment gateway and transaction validation, plus API automation.  
-- **MyManager CRM** — End-to-end and automated testing of state-based workflows, routing logic, and cross-module data sync.  
-- **Denowatts Performance Portal** — Validated commissioning workflows and solar energy data reporting; automated critical flows.  
-
----
-
 ## 🔧 Tech Stack
 
 <p align="left">
@@ -91,11 +69,6 @@ Software QA Engineer with 5+ years of experience in manual and automated testing
 - **Version Control**: Git (GitHub / Bitbucket).  
 - **Methodologies**: Scrum, Kanban.  
 - **Emerging**: AI-assisted testing tools & LLM-based test generation (actively learning).  
-
----
-
-## 🎓 Education  
-**BSc in Computer Science and Engineering** — Port City International University, Chittagong  
 
 ---
 
