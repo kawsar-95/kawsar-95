@@ -73,10 +73,19 @@ Software QA Engineer with 5+ years of experience in manual and automated testing
 ---
 
 ## 🎯 2026 Goals  
+
+**🤖 AI Engineering**  
+- Learn **AI Engineering from scratch** and go deeper into it.  
 - Deepen expertise in **AI-assisted test generation** and integrate it into a real CI/CD pipeline.  
+
+**☁️ DevOps & Cloud**  
+- Learn **DevOps** and **Cloud Infrastructure** in depth.  
+- Move toward a **DevOps** role.  
+
+**🧪 QA & Career Growth**  
 - Earn **ISTQB Advanced Level** certification.  
 - Grow into a **QA leadership** role, improving QA practices and Agile delivery.  
-- Contribute to open-source QA tooling projects.  
+- Contribute to **open-source QA tooling** projects.
 
 ---
 
