@@ -2,8 +2,9 @@
 <h3 align="center">QA Automation Engineer | Cypress · Selenium · Playwright | CI/CD · API · Performance Testing | Bangladesh 🇧🇩</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kawsar-95&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://www.linkedin.com/in/nuruddin-kawsar-3b5152279/" target="_blank">
+     <a href="https://github.com/kawsar-95">
+       <img src="https://hits.sh/github.com/kawsar-95.svg?style=flat&label=Profile%20Views&color=0e75b6&labelColor=555555" alt="Profile Views" />
+     </a>  <a href="https://www.linkedin.com/in/nuruddin-kawsar-3b5152279/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:nuruddinkawsar1995@gmail.com">
